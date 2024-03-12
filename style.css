@@ -451,6 +451,8 @@ p {
 	width: 100%;
 	position: relative;
 	border: 10px solid white;
+	background-image: url(./img/img-2.JPG);
+	background-size: cover;
 }
 #about .col-left .about-img::after {
 	content: '';
